@@ -6,6 +6,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?logo=pandas)
 ![Project](https://img.shields.io/badge/Portfolio-Project-success)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Finance](https://img.shields.io/badge/Domain-Banking-darkgreen)
 ![Last Update](https://img.shields.io/badge/Updated-2026-brightgreen)
 > **Stack:** Python · SQL (SQLite) · Pandas · Matplotlib · Seaborn · Power BI
