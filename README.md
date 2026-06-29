@@ -1,4 +1,4 @@
-![Indian Banking Sector Analysis](Docs/Images/banner.png)
+![Indian Banking Sector Analysis](Docs/Images/Banner.jpg)
 # 🏦 Indian Banking Sector Financial Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
