@@ -13,7 +13,26 @@
 ## 📌 Overview
 Comprehensive financial analytics for 10 major Indian banks (PSU & Private) across FY2020–FY2024.
 Covers database design, SQL analytics, Python visualizations, and Power BI dashboards.
+---
 
+# 📊 Power BI Dashboard
+
+## Executive Overview
+![Executive Overview](Docs/Images/executive-overview.png)
+
+## Asset Quality
+![Asset Quality](Docs/Images/asset-quality.png)
+
+## Profitability & Efficiency
+![Profitability](Docs/Images/profitability.png)
+
+## Capital Adequacy & Stability
+![Capital Adequacy](Docs/Images/capital-adequacy.png)
+
+## Stock Performance
+![Stock Performance](Docs/Images/stock-performance.png)
+
+---
 ## 📁 Structure
 ```
 project3_indian_banking/
