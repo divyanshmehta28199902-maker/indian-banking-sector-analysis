@@ -3,10 +3,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue?logo=sqlite)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?logo=powerbi)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?logo=pandas)
+![Project](https://img.shields.io/badge/Portfolio-Project-success)
+![Finance](https://img.shields.io/badge/Domain-Banking-darkgreen)
+![Last Update](https://img.shields.io/badge/Updated-2026-brightgreen)
 > **Stack:** Python · SQL (SQLite) · Pandas · Matplotlib · Seaborn · Power BI
 
 ## 📌 Overview
