@@ -19,7 +19,7 @@ Covers database design, SQL analytics, Python visualizations, and Power BI dashb
 
 ## Executive Overview
 
-![Executive Overview](./Docs/Images/executive-overview.png)
+![Executive Overview](./Docs/Images/ executive-overview.png)
 
 ## Asset Quality
 
@@ -31,7 +31,7 @@ Covers database design, SQL analytics, Python visualizations, and Power BI dashb
 
 ## Capital Adequacy & Stability
 
-![Capital Adequacy](./Docs/Images/capital-adequacy.png)
+![Capital Adequacy](./Docs/Images/ capital-adequacy.png)
 
 ## Stock Performance
 
